@@ -39,7 +39,7 @@ Task 6 ->    Asks the user for a number as input.
              Sine of the number (in radians)
              Displays the calculated results.
              
-# Assignment - 5
+# Assignment - 4
 
 Task 7 - Files, Exceptions, and Errors in Python
            Write a Python program that:
